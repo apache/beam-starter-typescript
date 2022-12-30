@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# Generated code
+dist
+
+# Output of 'npm pack'
+*.tgz

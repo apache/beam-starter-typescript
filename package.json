@@ -1,0 +1,26 @@
+{
+  "name": "apache-beam-starter-project",
+  "version": "0.1.0",
+  "description": "A Typescript Apache Beam pipeline.",
+  "main": "index.js",
+  "bin": "dist/run.js",
+  "scripts": {
+    "pretest": "npm run build",
+    "test": "mocha dist/test",
+    "build": "ttsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apache-beam": "file:../incubator-beam/sdks/typescript/apache-beam-2.45.0-SNAPSHOT.tgz",
+    "yargs": "^17.6.2"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.1",
+    "mocha": "^10.2.0",
+    "typescript": "^4.5.4"
+  },
+  "exports": {
+    "./*": "./dist/src/*.js"
+  }
+}
