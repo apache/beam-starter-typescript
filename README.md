@@ -51,9 +51,9 @@ To run this pipeline on another runner, simply set the `--runner` flag
 (along with any other parameters it requires).
 For example, to run on Flink you can execute the pipeline as
 
-````sh
+```sh
 node dist/src/main.js --runner=flink [--flinkMaster=...]
-``
+```
 
 or to run it on dataflow execute the pipeline as
 
