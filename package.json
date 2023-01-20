@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apache-beam": "file:../incubator-beam/sdks/typescript/apache-beam-2.45.0-SNAPSHOT.tgz",
+    "apache-beam": "^2.45.0-SNAPSHOT3",
     "yargs": "^17.6.2"
   },
   "devDependencies": {
