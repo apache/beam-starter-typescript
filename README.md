@@ -18,7 +18,7 @@ This can be done with
 npm install
 ```
 
-The pipeline is then build with
+The pipeline is then built with
 
 ```sh
 npm run build
