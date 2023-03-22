@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "apache-beam": "^2.45.0-SNAPSHOT3",
+    "apache-beam": "^2.46.0",
     "yargs": "^17.6.2"
   },
   "devDependencies": {
