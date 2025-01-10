@@ -6,7 +6,7 @@ There are many ways to contribute, here are some.
 
 ## Filing an issue
 
-If there's any issue you encounter or anything that needs to be fixed, feel free to [create a GitHub issue](https://github.com/apache/beam-starter-typescript/issues).
+If there's any issue you encounter or anything that needs to be fixed, feel free to [create a GitHub issue](https://github.com/apache/beam/issues).
 
 ## Contributing to this starter project
 
